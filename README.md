@@ -34,7 +34,7 @@ cd todobeta
 4. Run the app:
 
 ```bash
-python todo
+python todo.py
 ```
 
 ---
@@ -60,4 +60,4 @@ python todo
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — feel free to use and modify it! 😎
+We have no license — feel free to use and modify it! 😎
