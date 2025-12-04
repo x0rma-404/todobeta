@@ -22,19 +22,19 @@ Keep track of your tasks, mark them as done, and delete them easily! ✅❌
 2. Clone the repository:
 
 ```bash
-git clone https://github.com/username/todo-gui-app.git
+git clone https://github.com/x0rma-404/todobeta.git
 ```
 
 3. Navigate to the project folder:
 
 ```bash
-cd todo-gui-app
+cd todobeta
 ```
 
 4. Run the app:
 
 ```bash
-python todo_gui_pretty.py
+python todo
 ```
 
 ---
