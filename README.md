@@ -55,6 +55,7 @@ python todo.py
 * Add **priority levels** ⭐
 * Sync tasks with **online storage / cloud**
 * Mobile version (Tkinter alternative: Kivy or PyQt)
+* Probably i will add ai 
 
 ---
 
