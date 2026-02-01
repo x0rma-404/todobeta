@@ -5,7 +5,7 @@ Keep track of your tasks, mark them as done, and delete them easily! ✅❌
 
 ---
 
-## 🚀 Feature
+## 🚀 Features
 
 * Add tasks quickly 🖊️
 * Mark tasks as done ✅
